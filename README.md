@@ -148,7 +148,7 @@ Sistem memiliki 4 role:
 ![alt text](ss-novars/admin_konfirmasi_operasi_pasien.png) 
 
 ### pasien (pasien melihat jadwal operasi)  
-![alt text](ss-novars/pasein-tampilan pasein_saat_dijadwalkan_operasi.png) 
+![alt text](ss-novars/pasein-tampilan_pasein_saat_dijadwalkan_operasi.png) 
 
 ### dokter (mengambil jadwal operasi) 
 ![alt text](ss-novars/dokter-dokter_konfirmasi_operasi.png) 
